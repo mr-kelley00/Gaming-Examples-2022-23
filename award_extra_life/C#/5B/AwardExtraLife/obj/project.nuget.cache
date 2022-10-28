@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEVaq13vmS5GbhxMx+zaV1iR6FL5AY2pi7yJUykXjfp6JmJ76mrGDKKo6JaePqVaBR6i04B4WXjM1L+nmNHjnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelleyr\\OneDrive - Duval County Public Schools\\Downloads\\GitHub\\Gaming-Examples-2022-23\\award_extra_life\\C#\\5B\\AwardExtraLife\\AwardExtraLife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelleyr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
