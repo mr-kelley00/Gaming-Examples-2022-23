@@ -7,6 +7,11 @@ namespace AwardExtraLife
         static void Main(string[] args)
         {
             // datatype variableName = value;
+            // datatype variableName; 
+            int score = 0; 
+            int lives = 2; 
+            
+
         }
     }
 }
